@@ -1,42 +1,155 @@
-# 💫 About Me:
-Aspiring Data Analyst | Python • NumPy • Pandas | Passionate about Data Science and Data-Driven Insights | Building Projects in Data Analytics | Open to Internship Opportunities<br>📊 Learning Data Analytics<br>🐍 Python | NumPy | Pandas<br>🚀 Building Data Projects
+<h1 align="center">Hi 👋, I'm Devamjitsinh Bhati</h1>
+<h3 align="center">Data Analyst Intern Candidate | Turning Raw Data into Business Decisions</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhati-devamjitsinh-karmjitsinh-67571331b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bhatidevamjit1776@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Gandhinagar%2C%20India-informational?style=for-the-badge" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bhati-devamjitsinh-karmjitsinh-67571331b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhatidevamjit1776@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Devam665&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Devam665&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Devam665&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Devam665&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Devam665&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devam665&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Devam665&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+### 🚀 About Me
 
-<!--
-**Devam665/Devam665** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 B.Sc. Information Technology (Computer Science) @ Silver Oak University, Ahmedabad — CGPA **8.5/10**
+- 📊 I build **end-to-end BI solutions** — from raw data to executive dashboards that drive decisions
+- 🏆 Delivered projects processing **143M+ records**, surfacing **$12.6K in at-risk revenue**, and uncovering key operational trends
+- 🔭 Currently sharpening skills in **SQL, Power BI, and Python** for real-world analytics
+- 🌱 Learning: advanced DAX, ETL pipelines, and statistical modeling
+- 💬 Ask me about: Power BI dashboards, DAX measures, EDA, or data cleaning pipelines
+- 📫 Reach me at **bhatidevamjit1776@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages & Analysis**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+**BI & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-217346?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20Query-217346?style=flat-square" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+</p>
+
+**Data & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**📉 [Customer Churn Analytics & Prediction Dashboard](#)**
+<br/>Power BI · Python · Power Query · DAX
+- Modeled 7,032 telecom customer records with a custom Risk Score (0–100)
+- Built 8 executive KPI cards + Top 10 High-Risk Customers report
+- Surfaced **$12.6K revenue at risk** & **26.58% churn rate**
+
+</td>
+<td width="50%">
+
+**✈️ [Airline Flight Delay & Root Cause Analysis](#)**
+<br/>Python · Pandas · Power BI · DAX · Jupyter
+- Cleaned **143,786,417** flight records (51 airlines, 447 airports, 2003–2025)
+- Built a 5-page dashboard with 10+ custom KPIs
+- Identified Late Aircraft as **#1 delay cause (38.4%)**, 19.80% system delay rate
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**💼 [Job Market Intelligence Dashboard](#)**
+<br/>Power BI · Power Query · DAX
+- Built a star-schema model across 10+ industries
+- 8+ DAX measures: median salary, YoY hiring growth, skills-frequency index
+- Surfaced top 5 in-demand skills per industry
+
+</td>
+<td width="50%">
+
+**🏏 [IPL Auction Intelligence Dashboard](#)**
+<br/>Python · Pandas · Power BI · DAX · EDA
+- Cleaned 1,300+ auction records across 14 seasons (2013–2026)
+- Built a multi-page dashboard with price trend & spending heat maps
+- Engineered a custom Value Index to flag undervalued players
+
+</td>
+</tr>
+</table>
+
+> 💡 Replace the `#` links above with your actual GitHub repo URLs once you push these projects.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Devam665&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devam665&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devam665&hide_border=true" />
+</p>
+
+---
+
+### 🎓 Education
+
+**B.Sc. Information Technology (Computer Science)** — Silver Oak University, Ahmedabad
+`Aug 2024 – Aug 2027` · CGPA: 8.5/10 · No active backlogs
+
+### 📜 Certifications
+
+- SQL (Intermediate) — HackerRank *(Jun 2026)*
+- Python for Data Science — NPTEL, IIT Madras *(Jul–Aug 2025)*
+- Power BI for Business Applications — Microsoft Elevate *(Jan 2026)*
+- Artificial Intelligence & Machine Learning — Microsoft
+- Microsoft Excel (Advanced) — Microsoft Learn *(May 2026)*
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhati-devamjitsinh-karmjitsinh-67571331b"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  &nbsp;
+  <a href="mailto:bhatidevamjit1776@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+<p align="center"><i>⭐️ From <a href="https://github.com/Devam665">Devam665</a> — turning numbers into narratives.</i></p>
